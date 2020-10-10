@@ -1,0 +1,9 @@
+body{
+    background: darkkhaki;
+    font-size: 0.8em;
+    letter-spacing: 0.2em;
+
+}
+.container{
+    max-width: 400px;
+}
